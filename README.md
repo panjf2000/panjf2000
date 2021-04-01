@@ -6,6 +6,6 @@
 - 👔 Pronouns: "He" | "His"
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Open-source software developer
-- ⚡ Go, Java, Python, Rust ...
+- ⚡ Go, C/C++, Rust, Java, Python, ...
 
 <img src="https://github-profile-trophy.vercel.app/?username=panjf2000&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
