@@ -10,7 +10,7 @@
 
 Please visit [Golang China Contributors Club](https://golangcn.org/) to learn more about our work.
 
-# My Open-source works
+# My open-source work
 
 ## As the creator
 
