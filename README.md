@@ -8,4 +8,4 @@
 - 🌏 Open-source software developer
 - ⚡ Go, C/C++, Rust, Java, Python, ...
 
-Please visit [Golang China Contributors Club](https://golangcn.org/) to learn more about our work.
+Please visit [Golang China Contributor Club](https://golangcn.org/) to learn more about our work.
