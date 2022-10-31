@@ -22,10 +22,6 @@ The best way to reach out to me is by email: i@andypan.me.
 
 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
 
-## As the maintainer
-
-### [awesome-go](https://github.com/avelino/awesome-go)   <kbd title="主要编程语言">  Go  </kbd>    <span style="font-size: 15px;">        <a title="Watchers" target="_blank" href="https://github.com/avelino/awesome-go/watchers">    <img src="https://img.shields.io/github/watchers/avelino/awesome-go?color=%2344cef6&logo=probot&style=for-the-badge">    </a>        <a title="Stars" target="_blank" href="https://github.com/avelino/awesome-go/stargazers">    <img src="https://img.shields.io/github/stars/avelino/awesome-go?color=%232edfa3&logo=trustpilot&style=for-the-badge">    </a>        <a title="Forks" target="_blank" href="https://github.com/avelino/awesome-go/network/members">    <img src="https://img.shields.io/github/forks/avelino/awesome-go?color=%23ff4c00&logo=hubspot&style=for-the-badge">    </a>    </span>
-
 A curated list of awesome Go frameworks, libraries and software [awesome-go.com](https://awesome-go.com/)
 
 ## As the contributor
