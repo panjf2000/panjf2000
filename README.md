@@ -1,8 +1,8 @@
 ### Hi there, I'm [Andy Pan](https://andypan.me) 🎉
 
-If you're interested in my past and current open source work, here's a short summary.
-
 The best way to reach out to me is by email: i@andypan.me.
+
+If you're interested in my past and current open source work, here's a short summary.
 
 ## As the creator
 
