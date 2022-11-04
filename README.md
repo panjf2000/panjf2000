@@ -22,8 +22,6 @@ If you're interested in my past and current open source work, here's a short sum
 
 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
 
-A curated list of awesome Go frameworks, libraries and software [awesome-go.com](https://awesome-go.com/)
-
 ## As the contributor
 
 ### [go](https://github.com/golang/go)   <kbd title="主要编程语言">  Go  </kbd>    <span style="font-size: 15px;">                 <a title="Watchers" target="_blank" href="https://github.com/golang/go/watchers">    <img src="https://img.shields.io/github/watchers/golang/go?color=%2344cef6&logo=probot&style=for-the-badge">    </a>        <a title="Stars" target="_blank" href="https://github.com/golang/go/stargazers">    <img src="https://img.shields.io/github/stars/golang/go?color=%232edfa3&logo=trustpilot&style=for-the-badge">    </a>        <a title="Forks" target="_blank" href="https://github.com/golang/go/network/members">    <img src="https://img.shields.io/github/forks/golang/go?color=%23ff4c00&logo=hubspot&style=for-the-badge">    </a>    </span>
