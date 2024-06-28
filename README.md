@@ -11,7 +11,7 @@ I have a keen interest in [Go](https://github.com/golang/go), [Rust](https://git
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_vertical_blue.svg" width="100px">
   </a>
-  <a href="https://www.jetbrains.com/?from=ants">
+  <a href="https://www.jetbrains.com/">
     <img src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" width="100px">
   </a>
   <a href="https://github.com/features/copilot">
