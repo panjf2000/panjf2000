@@ -9,13 +9,13 @@ I have a keen interest in [Go](https://github.com/golang/go), [Rust](https://git
 ## Patrons
 <p>Thanks to the following patrons for their support of my open-source work:</p>
   <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_vertical_blue.svg" width="200px">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_vertical_blue.svg" width="150px">
   </a>
   <a href="https://www.jetbrains.com/?from=ants">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" width="200px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" width="150px">
   </a>
   <a href="https://github.com/features/copilot">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="200px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="150px">
   </a>
 
 <!--
