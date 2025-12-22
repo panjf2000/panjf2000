@@ -1,10 +1,8 @@
-### Hi there, I'm [Andy Pan](https://andypan.me) 🎉
+### Hi there, I'm [Andy Pan](https://andypan.me/about/) 🎉
 
 The best way to reach out to me is by email: i@andypan.me
 
-I'm a [programmer](https://github.com/panjf2000/panjf2000) / [blogger](https://strikefreedom.top) / [traveler](https://gallery.strikefreedom.top/s/1e8v8ivisn) / [photographer](https://gallery.strikefreedom.top/s/1e8v8ivisn), ...
-
-[About me](https://andypan.me/about/)
+I'm a [programmer](https://github.com/panjf2000) / [blogger](https://strikefreedom.top/) / [traveler](https://photos.andypan.me/) / [photographer](https://photos.andypan.me/), ...
 
 ## Patrons
 <p>Thanks to the following patrons for their support of my open-source work:</p>
