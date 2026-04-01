@@ -6,7 +6,7 @@ I'm a [programmer](https://github.com/panjf2000) / [blogger](https://strikefreed
 
 ## Patrons
 <p>Thanks to the following patrons for their support of my open-source work:</p>
-  <a href="https://www.digitalocean.com/">
+  <a href="https://www.digitalocean.com/?refcode=5d8774f42124&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_vertical_blue.svg" width="100px">
   </a>
   <a href="https://www.jetbrains.com/">
